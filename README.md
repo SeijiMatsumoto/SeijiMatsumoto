@@ -5,6 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SeijiMatsumoto.SeijiMatsumoto)
 
+- 👤 I'm currently a Software Engineer at Goldman Sachs
 - 🔭 I’m currently working on a time management Pomodoro Timer app called [Jikan](https://my-jikan.com)
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about anything!
